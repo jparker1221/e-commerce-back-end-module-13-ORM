@@ -1,6 +1,6 @@
 # e-commerce-back-end-module-13-orm
 
-![license](https://img.shields.io/badge/license-MIT-green)
+[![license](https://img.shields.io/badge/license-MIT-green)](https://opensource.org/licenses/MIT)
 
 ## Description
 
